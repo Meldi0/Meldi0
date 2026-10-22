@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090a0d" />
+      <stop offset="55%" stop-color="#10131a" />
+      <stop offset="100%" stop-color="#0b0d12" />
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="18%" cy="22%" r="55%">
+      <stop offset="0%" stop-color="#6887b1" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#6887b1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="88%" cy="75%" r="48%">
+      <stop offset="0%" stop-color="#9cb7db" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#9cb7db" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#f5f4f0" stroke-width="0.6" stroke-opacity="0.045" />
+    </pattern>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5f4f0" stop-opacity="0.06" />
+      <stop offset="50%" stop-color="#9cb7db" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#f5f4f0" stop-opacity="0.06" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main Card Surface -->
+  <rect width="1200" height="340" rx="22" fill="url(#bgGrad)" />
+  <rect width="1200" height="340" rx="22" fill="url(#grid)" />
+  <rect width="1200" height="340" rx="22" fill="url(#glowLeft)" />
+  <rect width="1200" height="340" rx="22" fill="url(#glowRight)" />
+  <rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="#f5f4f0" stroke-opacity="0.12" stroke-width="1.5" />
+
+  <!-- Subtle Background Watermark -->
+  <text x="1145" y="235" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="168" font-weight="800" letter-spacing="-8" fill="#f5f4f0" fill-opacity="0.028">AIBEL</text>
+
+  <!-- Top Eyebrow Pill -->
+  <g transform="translate(56, 46)">
+    <rect width="346" height="30" rx="15" fill="#161a23" stroke="#9cb7db" stroke-opacity="0.28" stroke-width="1" />
+    <circle cx="18" cy="15" r="4" fill="#9cb7db">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="19" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#c7d8ee">PORTFOLIO ARCHIVE  •  BANDUNG, ID</text>
+  </g>
+
+  <!-- Top Right Coordinates -->
+  <text x="1144" y="65" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#8b929e">6.9175° S, 107.6191° E  //  2026</text>
+
+  <!-- Main Name & Persona Title -->
+  <text x="56" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.4" fill="#f5f4f0">Muhamad Eldi</text>
+  
+  <g transform="translate(476, 112)">
+    <rect width="112" height="34" rx="17" fill="#9cb7db" fill-opacity="0.14" stroke="#9cb7db" stroke-opacity="0.38" stroke-width="1" />
+    <text x="56" y="22" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.8" fill="#d6e4f7">aka AIBEL</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="56" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0.2" fill="#a5adb8">Full-Stack Developer   ·   Creative Technologist   ·   AI Explorer</text>
+  <text x="56" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#777e89">Crafting digital experiences through code, creativity, and curiosity — from web architecture to local AI agents.</text>
+
+  <!-- Divider Line -->
+  <line x1="56" y1="264" x2="1144" y2="264" stroke="url(#lineGrad)" stroke-width="1" />
+
+  <!-- Bottom Metrics / Disciplines Bar -->
+  <g transform="translate(56, 298)" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="11" letter-spacing="1.1">
+    <text x="0" y="0" fill="#9cb7db" font-weight="600">01</text>
+    <text x="24" y="0" fill="#d0d5dd">FULL-STACK ARCHITECTURE</text>
+
+    <text x="260" y="0" fill="#9cb7db" font-weight="600">02</text>
+    <text x="284" y="0" fill="#d0d5dd">LOCAL AI &amp; OLLAMA AGENTS</text>
+
+    <text x="535" y="0" fill="#9cb7db" font-weight="600">03</text>
+    <text x="559" y="0" fill="#d0d5dd">INTERACTIVE UI &amp; WEBGL</text>
+
+    <text x="790" y="0" fill="#9cb7db" font-weight="600">04</text>
+    <text x="814" y="0" fill="#d0d5dd">DATA &amp; ENTERPRISE SYSTEMS</text>
+
+    <text x="1088" y="0" text-anchor="end" fill="#9cb7db" font-weight="600">AIBEL.WORKS ↗</text>
+  </g>
+</svg>

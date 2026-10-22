@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#11141b" />
+      <stop offset="100%" stop-color="#0b0d12" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 01 -->
+  <g transform="translate(0, 0)">
+    <rect width="285" height="220" rx="16" fill="url(#cardBg)" stroke="#f5f4f0" stroke-opacity="0.1" stroke-width="1.2" />
+    <text x="24" y="38" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#9cb7db" font-weight="600">01 // FRONTEND &amp; MOTION</text>
+    <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#f5f4f0">Interactive Interfaces</text>
+    <text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">React, TypeScript, Tailwind CSS,</text>
+    <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">GSAP ScrollTrigger, Three.js WebGL</text>
+    <text x="24" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">&amp; editorial glassmorphism.</text>
+    <rect x="24" y="172" width="132" height="24" rx="12" fill="#1a202c" />
+    <text x="90" y="188" text-anchor="middle" font-family="'SF Mono', Consolas, monospace" font-size="10" fill="#b9d0ee">UI / UX ENGINEERING</text>
+  </g>
+
+  <!-- Card 02 -->
+  <g transform="translate(305, 0)">
+    <rect width="285" height="220" rx="16" fill="url(#cardBg)" stroke="#f5f4f0" stroke-opacity="0.1" stroke-width="1.2" />
+    <text x="24" y="38" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#9cb7db" font-weight="600">02 // BACKEND &amp; API</text>
+    <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#f5f4f0">Structured Systems</text>
+    <text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">PHP, Laravel, Node.js, Python,</text>
+    <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">RESTful APIs, role-based access</text>
+    <text x="24" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">&amp; operational workflows.</text>
+    <rect x="24" y="172" width="138" height="24" rx="12" fill="#1a202c" />
+    <text x="93" y="188" text-anchor="middle" font-family="'SF Mono', Consolas, monospace" font-size="10" fill="#b9d0ee">FULL-STACK LOGIC</text>
+  </g>
+
+  <!-- Card 03 -->
+  <g transform="translate(610, 0)">
+    <rect width="285" height="220" rx="16" fill="url(#cardBg)" stroke="#f5f4f0" stroke-opacity="0.1" stroke-width="1.2" />
+    <text x="24" y="38" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#9cb7db" font-weight="600">03 // AI &amp; AUTOMATION</text>
+    <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#f5f4f0">Local AI Agents</text>
+    <text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">Ollama local LLM orchestration,</text>
+    <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">tool calling, shipment analytics</text>
+    <text x="24" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">&amp; context-aware automation.</text>
+    <rect x="24" y="172" width="128" height="24" rx="12" fill="#1a202c" />
+    <text x="88" y="188" text-anchor="middle" font-family="'SF Mono', Consolas, monospace" font-size="10" fill="#b9d0ee">AI EXPLORATION</text>
+  </g>
+
+  <!-- Card 04 -->
+  <g transform="translate(915, 0)">
+    <rect width="285" height="220" rx="16" fill="url(#cardBg)" stroke="#f5f4f0" stroke-opacity="0.1" stroke-width="1.2" />
+    <text x="24" y="38" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#9cb7db" font-weight="600">04 // DATA &amp; CREATIVE</text>
+    <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#f5f4f0">Data &amp; Digital Labs</text>
+    <text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">MySQL, MongoDB, enterprise data</text>
+    <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">mapping, executive dashboards,</text>
+    <text x="24" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#9098a6">typography tools &amp; Roblox Studio.</text>
+    <rect x="24" y="172" width="136" height="24" rx="12" fill="#1a202c" />
+    <text x="92" y="188" text-anchor="middle" font-family="'SF Mono', Consolas, monospace" font-size="10" fill="#b9d0ee">CREATIVE &amp; DATA</text>
+  </g>
+</svg>
