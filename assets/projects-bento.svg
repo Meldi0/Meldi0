@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bentoBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#121620" />
+      <stop offset="100%" stop-color="#0b0d12" />
+    </linearGradient>
+  </defs>
+
+  <!-- ROW 1 -->
+  <!-- Project 01 -->
+  <g transform="translate(0, 0)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#9cb7db" stroke-opacity="0.22" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">01 // AI &amp; LOGISTICS OPERATIONS</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">Local AI Shipment Agent</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">AI-powered tracking &amp; delivery exception analysis</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">built during Operations Control internship at PT Pos.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">Python  ·  Ollama LLM  ·  MongoDB  ·  REST API</text>
+  </g>
+
+  <!-- Project 02 -->
+  <g transform="translate(407, 0)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#f5f4f0" stroke-opacity="0.12" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">02 // ENTERPRISE WEB APPLICATION</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">POSO Operations System</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">Operational web platform featuring RBAC permissions,</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">MFA concepts, operator monitoring &amp; admin workflows.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">React  ·  TypeScript  ·  Node.js  ·  MySQL</text>
+  </g>
+
+  <!-- Project 03 -->
+  <g transform="translate(814, 0)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#f5f4f0" stroke-opacity="0.12" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">03 // DATA VISUALIZATION</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">Regional Performance Dashboard</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">Executive analytics interface translating regional</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">shipment volumes into clear operational insights.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">Vite  ·  JavaScript  ·  Analytics UI  ·  Charts</text>
+  </g>
+
+  <!-- ROW 2 -->
+  <!-- Project 04 -->
+  <g transform="translate(0, 204)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#f5f4f0" stroke-opacity="0.12" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">04 // ENTERPRISE DATA ENGINEERING</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">iPOS5 Data Integration</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">Master office dataset validation &amp; structural mapping</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">aligned with official national regional reference data.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">Master Data  ·  Data Mapping  ·  Validation</text>
+  </g>
+
+  <!-- Project 05 -->
+  <g transform="translate(407, 204)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#f5f4f0" stroke-opacity="0.12" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">05 // LOCAL AI AGENT R&amp;D</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">Personal Local AI Assistant</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">Workspace-aware local LLM assistant with tool calling,</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">authorized file interaction &amp; developer automation.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">Ollama  ·  Python  ·  Local LLMs  ·  Tool Calling</text>
+  </g>
+
+  <!-- Project 06 -->
+  <g transform="translate(814, 204)">
+    <rect width="386" height="184" rx="18" fill="url(#bentoBg)" stroke="#9cb7db" stroke-opacity="0.22" stroke-width="1.2" />
+    <text x="24" y="34" font-family="'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#9cb7db">06 // CREATIVE WEB &amp; 3D LABS</text>
+    <text x="24" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700" fill="#f5f4f0">Photobooth, GlyphLab &amp; 3D</text>
+    <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">Interactive browser photobooth studio, decorative</text>
+    <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#9ca3af">typography playground &amp; Midnight District 3D city.</text>
+    <text x="24" y="156" font-family="'SF Mono', Consolas, monospace" font-size="10.5" fill="#c7d8ee">Canvas API  ·  Three.js  ·  GSAP  ·  Roblox Luau</text>
+  </g>
+</svg>
