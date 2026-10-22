@@ -51,16 +51,16 @@ const AIBEL = {
     <img src="https://img.shields.io/badge/PORTFOLIO-AIBEL.WORKS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/_kubill/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40__KUBILL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @_kubill" />
+  </a>
+  &nbsp;
   <a href="mailto:muheldinug122@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-MUHELDINUG122%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/Meldi0/aibel-works">
     <img src="https://img.shields.io/badge/GITHUB-PROJECT_ARCHIVE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Archive" />
-  </a>
-  &nbsp;
-  <a href="https://meldi0.github.io/aibel-works/#contact">
-    <img src="https://img.shields.io/badge/DIRECT_DISPATCH-SEND_MESSAGE-4F46E5?style=for-the-badge&logo=telegram&logoColor=white" alt="Send Message" />
   </a>
 </div>
 
