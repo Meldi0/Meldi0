@@ -8,7 +8,9 @@
 
 ## About Me
 
-<img align="right" width="37%" src="./assets/aibel-side-art.jpg" alt="Muhamad Eldi — AIBEL Creative Persona" style="border-radius: 14px;" />
+<a href="https://meldi0.github.io/aibel-works/">
+  <img align="right" width="38%" src="./assets/aibel-side-card.svg" alt="Muhamad Eldi — AIBEL Creative Persona" />
+</a>
 
 ```ts
 const AIBEL = {
@@ -16,6 +18,12 @@ const AIBEL = {
   education: "SMK — Software Engineering (Rekayasa Perangkat Lunak / RPL)",
   internship: "PT Pos Indonesia — Operations Control (Pengendalian Operasi)",
   location: "Bandung, West Java, Indonesia",
+
+  socials: {
+    portfolio: "meldi0.github.io/aibel-works",
+    instagram: "@_kubill",
+    tiktok: "@_ldii1"
+  },
 
   building: [
     "Full-Stack Web & Enterprise Systems",
@@ -38,7 +46,7 @@ const AIBEL = {
 ```
 
 <a href="https://meldi0.github.io/aibel-works/">
-  <img width="60%" src="./assets/quote-card.svg" alt="Quote — Muhamad Eldi (aka AIBEL)" />
+  <img width="59%" src="./assets/quote-card.svg" alt="Quote — Muhamad Eldi (aka AIBEL)" />
 </a>
 
 <br clear="both" />
@@ -53,6 +61,10 @@ const AIBEL = {
   &nbsp;
   <a href="https://www.instagram.com/_kubill/">
     <img src="https://img.shields.io/badge/INSTAGRAM-%40__KUBILL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @_kubill" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@_ldii1">
+    <img src="https://img.shields.io/badge/TIKTOK-%40__LDII1-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @_ldii1" />
   </a>
   &nbsp;
   <a href="mailto:muheldinug122@gmail.com">
@@ -77,7 +89,7 @@ const AIBEL = {
   <img src="https://img.shields.io/badge/GSAP_MOTION-16A34A?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/ROBLOX_STUDIO_%2F_LUAU-2563EB?style=for-the-badge&logo=robloxstudio&logoColor=white" alt="Roblox Studio" />
-  <img src="https://img.shields.io/badge/LENIS_SMOOTH_SCROLL-DC2626?style=for-the-badge&logo= framer&logoColor=white" alt="Lenis" />
+  <img src="https://img.shields.io/badge/LENIS_SMOOTH_SCROLL-DC2626?style=for-the-badge&logo=framer&logoColor=white" alt="Lenis" />
   <br />
   <img src="https://img.shields.io/badge/PT_POS_INDONESIA-OPERATIONS_CONTROL-EA580C?style=for-the-badge" alt="PT Pos Indonesia Operations Control" />
   <img src="https://img.shields.io/badge/SMK_RPL-SOFTWARE_ENGINEERING-4F46E5?style=for-the-badge" alt="SMK RPL Software Engineering" />
@@ -126,5 +138,12 @@ const AIBEL = {
 ---
 
 <div align="center">
-  <sub><strong>Muhamad Eldi (aka AIBEL)</strong> &nbsp;·&nbsp; SMK Software Engineering (RPL) &nbsp;·&nbsp; PT Pos Indonesia (Operations Control) &nbsp;·&nbsp; <a href="https://meldi0.github.io/aibel-works/"><strong>meldi0.github.io/aibel-works</strong></a></sub>
+  <sub>
+    <strong>Muhamad Eldi (aka AIBEL)</strong> &nbsp;·&nbsp;
+    SMK Software Engineering (RPL) &nbsp;·&nbsp;
+    PT Pos Indonesia (Operations Control) &nbsp;·&nbsp;
+    <a href="https://meldi0.github.io/aibel-works/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+    <a href="https://www.instagram.com/_kubill/"><strong>Instagram (@_kubill)</strong></a> &nbsp;·&nbsp;
+    <a href="https://www.tiktok.com/@_ldii1"><strong>TikTok (@_ldii1)</strong></a>
+  </sub>
 </div>
