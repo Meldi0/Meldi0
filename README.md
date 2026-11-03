@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://meldi0.github.io/aibel-works/">
-    <img src="./assets/aibel-banner.svg" width="100%" alt="Muhamad Eldi (aka AIBEL) — Full-Stack Developer | AI Explorer | Operations Control @ PT Pos Indonesia" />
+    <img src="./assets/aibel-banner.svg" width="100%" alt="Muhamad Eldi (aka POPELL) — Full-Stack Developer | AI Explorer | Operations Control @ PT Pos Indonesia" />
   </a>
 </div>
 
@@ -9,12 +9,12 @@
 ## About Me
 
 <a href="https://meldi0.github.io/aibel-works/">
-  <img align="right" width="38%" src="./assets/aibel-side-card.svg" alt="Muhamad Eldi — AIBEL Creative Persona" />
+  <img align="right" width="38%" src="./assets/aibel-side-card.svg" alt="Muhamad Eldi — POPELL Creative Persona" />
 </a>
 
 ```ts
-const AIBEL = {
-  name: "Muhamad Eldi (aka AIBEL)",
+const POPELL = {
+  name: "Muhamad Eldi (aka POPELL)",
   education: "SMK — Software Engineering (Rekayasa Perangkat Lunak / RPL)",
   internship: "PT Pos Indonesia — Operations Control (Pengendalian Operasi)",
   location: "Bandung, West Java, Indonesia",
@@ -46,7 +46,7 @@ const AIBEL = {
 ```
 
 <a href="https://meldi0.github.io/aibel-works/">
-  <img width="59%" src="./assets/quote-card.svg" alt="Quote — Muhamad Eldi (aka AIBEL)" />
+  <img width="59%" src="./assets/quote-card.svg" alt="Quote — Muhamad Eldi (aka POPELL)" />
 </a>
 
 <br clear="both" />
@@ -56,7 +56,7 @@ const AIBEL = {
 
 <div align="center">
   <a href="https://meldi0.github.io/aibel-works/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-AIBEL.WORKS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-POPELL_STUDIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_kubill/">
@@ -139,7 +139,7 @@ const AIBEL = {
 
 <div align="center">
   <sub>
-    <strong>Muhamad Eldi (aka AIBEL)</strong> &nbsp;·&nbsp;
+    <strong>Muhamad Eldi (aka POPELL)</strong> &nbsp;·&nbsp;
     SMK Software Engineering (RPL) &nbsp;·&nbsp;
     PT Pos Indonesia (Operations Control) &nbsp;·&nbsp;
     <a href="https://meldi0.github.io/aibel-works/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;

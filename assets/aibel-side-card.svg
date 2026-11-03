@@ -22,17 +22,17 @@
 
     <!-- Top Studio Pill -->
     <g transform="translate(24, 24)">
-      <rect width="236" height="30" rx="15" fill="#0d131f" fill-opacity="0.82" stroke="#9cb7db" stroke-opacity="0.35" stroke-width="1" />
+      <rect width="244" height="30" rx="15" fill="#0d131f" fill-opacity="0.82" stroke="#9cb7db" stroke-opacity="0.35" stroke-width="1" />
       <circle cx="17" cy="15" r="4" fill="#4ade80">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
       </circle>
-      <text x="30" y="19" font-family="Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#d0e0f5">CREATIVE PERSONA • AIBEL</text>
+      <text x="30" y="19" font-family="Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#d0e0f5">CREATIVE PERSONA • POPELL</text>
     </g>
 
     <!-- Bottom Frosted Info Bar -->
     <g transform="translate(22, 502)">
       <rect width="476" height="92" rx="16" fill="#0d1320" fill-opacity="0.86" stroke="#9cb7db" stroke-opacity="0.28" stroke-width="1.2" />
-      <text x="22" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.3" fill="#f5f4f0">Muhamad Eldi  (aka AIBEL)</text>
+      <text x="22" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800" letter-spacing="-0.3" fill="#f5f4f0">Muhamad Eldi  (aka POPELL)</text>
       <text x="22" y="54" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12.5" font-weight="500" fill="#9cb7db">SMK Software Engineering (RPL)  ·  PT Pos Indonesia</text>
       <text x="22" y="76" font-family="Consolas, monospace" font-size="11" fill="#9ca3af">IG: @_kubill   •   TikTok: @_ldii1   •   Bandung, ID</text>
     </g>

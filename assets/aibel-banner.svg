@@ -57,12 +57,12 @@
       <line x1="410" y1="205" x2="1155" y2="205" stroke-opacity="0.18" />
     </g>
 
-    <g transform="translate(600, 40)">
-      <rect width="380" height="28" rx="14" fill="#111a2b" fill-opacity="0.88" stroke="#9cb7db" stroke-opacity="0.35" stroke-width="1" />
+    <g transform="translate(595, 40)">
+      <rect width="390" height="28" rx="14" fill="#111a2b" fill-opacity="0.88" stroke="#9cb7db" stroke-opacity="0.35" stroke-width="1" />
       <circle cx="17" cy="14" r="4" fill="#4ade80">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
       </circle>
-      <text x="30" y="18" font-family="Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#d0e0f5">MUHAMAD ELDI  •  AKA AIBEL  •  BANDUNG, ID</text>
+      <text x="30" y="18" font-family="Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#d0e0f5">MUHAMAD ELDI  •  AKA POPELL  •  BANDUNG, ID</text>
     </g>
 
     <text x="790" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="900" letter-spacing="3.5" fill="url(#titleGrad)">MUHAMAD ELDI</text>
